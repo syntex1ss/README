@@ -50,4 +50,4 @@ I'm always eager to learn from others and collaborate on interesting projects. F
 
 ---
 
-*"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
+*"Learning is a treasure that will follow you everywhere." - Chinese Proverb*
